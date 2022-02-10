@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyLoadTexture.cpp.obj": [
+			"MyLoadTexture.cpp.obj",
+			"MyLoadTextureBPLibrary.cpp.obj"
+		],
+		"Module.MyLoadTexture.gen.cpp.obj": [
+			"MyLoadTexture.init.gen.cpp.obj",
+			"MyLoadTextureBPLibrary.gen.cpp.obj"
+		]
+	}
+}

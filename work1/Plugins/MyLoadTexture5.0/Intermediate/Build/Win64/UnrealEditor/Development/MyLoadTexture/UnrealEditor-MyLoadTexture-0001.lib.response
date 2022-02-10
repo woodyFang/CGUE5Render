@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyLoadTexture-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE5Proj\P1\Intermediate\Build\Win64\P1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UE5Proj\P1\Plugins\MyLoadTexture5.0\Intermediate\Build\Win64\UnrealEditor\Development\MyLoadTexture\Module.MyLoadTexture.cpp.obj"
+"E:\UE5Proj\P1\Plugins\MyLoadTexture5.0\Intermediate\Build\Win64\UnrealEditor\Development\MyLoadTexture\Module.MyLoadTexture.gen.cpp.obj"
+"E:\UE5Proj\P1\Plugins\MyLoadTexture5.0\Intermediate\Build\Win64\UnrealEditor\Development\MyLoadTexture\Default.rc2.res"
+/OUT:"E:\UE5Proj\P1\Plugins\MyLoadTexture5.0\Intermediate\Build\Win64\UnrealEditor\Development\MyLoadTexture\UnrealEditor-MyLoadTexture-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyLoadTexture
